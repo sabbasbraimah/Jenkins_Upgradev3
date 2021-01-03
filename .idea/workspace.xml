@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b639c13-383a-4d7c-8c5e-3bf2d0f8027b" name="Default Changelist" comment="" />
+    <list default="true" id="6b639c13-383a-4d7c-8c5e-3bf2d0f8027b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Jenkins_Upgradev3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jenkins_Upgradev3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-samples/single-module/src/test/java/com/example/TestGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/maven-samples/single-module/src/test/java/com/example/TestGreeter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/devOps-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +48,7 @@
       <workItem from="1609239587690" duration="4632000" />
       <workItem from="1609352835110" duration="3952000" />
       <workItem from="1609425667744" duration="680000" />
+      <workItem from="1609631523117" duration="827000" />
     </task>
     <servers />
   </component>
